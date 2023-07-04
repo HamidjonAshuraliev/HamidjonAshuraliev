@@ -2,4 +2,4 @@
 I you can visit my pages
 <br />
 Languages and tools I work with:
-<code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"> height="25" </code>
+<code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"> height="5" </code>
