@@ -2,4 +2,4 @@
 I you can visit my pages
 <br />
 Languages and tools I work with:
-<code><img src="https://tse3.mm.bing.net/th?id=OIP.DGDsdEku1P3qBi51znJYSgHaHa&pid=Api&P=0&h=180"height="25"></code>
+<code><img src="https://tse2.mm.bing.net/th?id=OIP.r1qJ6zjPcmUE1DMKFKCeOwHaEK&pid=Api&P=0&h=180"height="25"></code>
