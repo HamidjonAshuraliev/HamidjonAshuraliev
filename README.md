@@ -1,2 +1,2 @@
-### Hi,I'm Khamidjon Ashuraliev <img src=" width="60px">
+### Hi,I'm Khamidjon Ashuraliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
