@@ -1,2 +1,2 @@
-### Hi,I'm Khamidjon Ashuraliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+### Hi,I'm Khamidjon Ashuraliev <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media4.giphy.com/media/g8uk5CmBJC3xVRPO1J/200w.webp?cid=ecf05e47g4g05tykdr87c5njpinfup18fffrxludu1qp0il2&ep=v1_gifs_search&rid=200w.webp&ct=g)https://media4.giphy.com/media/g8uk5CmBJC3xVRPO1J/200w.webp?cid=ecf05e47g4g05tykdr87c5njpinfup18fffrxludu1qp0il2&ep=v1_gifs_search&rid=200w.webp&ct=g" width="27px">
 
