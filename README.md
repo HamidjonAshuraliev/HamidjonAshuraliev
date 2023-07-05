@@ -7,7 +7,8 @@
 <img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" height="30"></a>
 <hr />
 <br />
-### Languages and tools I work with:
+### <em> Languages and tools I work with:</em>
+<br />
 <code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="50"></code>
 <code><img src="https://cdn4.iconfinder.com/data/icons/blackicon/54/css3_icon-512.png" height="50"></code>
 <code><img src="https://tse3.mm.bing.net/th?id=OIP.hYalr6Kntrpbdm9TNi9ykQHaHa&pid=Api&P=0&h=180" height="50"></code>
