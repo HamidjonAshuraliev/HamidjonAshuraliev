@@ -1,4 +1,4 @@
-### Hi,I'm Khamidjon Ashuraliev <img src="https://github.com/hamidjonashuraliev/hamidjonashuraliev/assets/131612969/739fbe62-9e66-42c1-926b-541a4c8c0103
+### Hi,I'm Khamidjon Ashuraliev <img src="https://media0.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e47mc04v3kgc57xd3g6ejbeo499dw7ug6369ox7hd7f&ep=v1_stickers_search&rid=giphy.gif&ct=s
 " width="40px">
 
 <em>I you can visit my pages</em>
