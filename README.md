@@ -3,3 +3,11 @@ I you can visit my pages
 <br />
 ### Languages and tools I work with:
 <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://cdn4.iconfinder.com/data/icons/blackicon/54/css3_icon-512.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-3-424x599.png" height="50"></code>
