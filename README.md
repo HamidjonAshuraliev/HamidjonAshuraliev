@@ -4,6 +4,7 @@ I you can visit my pages
 <br />
 <a href="https://www.instagram.com/my_life_my_style_94/"> 
 <img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" height="45"></a>
+<hr />
 <br />
 ### Languages and tools I work with:
 <code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="50"></code>
