@@ -3,8 +3,9 @@
 <em>I you can visit my pages</em>
 <br />
 <a href="https://www.instagram.com/my_life_my_style_94/"> 
-<a href="https://t.me/Khamidullo_Ashuraliyev"> 
+
 <img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" height="30"></a>
+<a href="https://t.me/Khamidullo_Ashuraliyev"> 
 <img src="https://ml1l5odocjdn.i.optimole.com/hvsx_D8-PISjojdI/w:auto/h:auto/q:auto/https://segredosderico.com/wp-content/uploads/2020/07/telegram_logo_icon_134592.png" height="30"></a>
 <hr />
 <br />
