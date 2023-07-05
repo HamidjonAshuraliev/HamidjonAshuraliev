@@ -14,4 +14,4 @@
 <code><img src="https://cdn4.iconfinder.com/data/icons/blackicon/54/css3_icon-512.png" height="50"></code>
 <code><img src="https://tse3.mm.bing.net/th?id=OIP.hYalr6Kntrpbdm9TNi9ykQHaHa&pid=Api&P=0&h=180" height="50"></code>
 <code><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="50"></code>
-<code><img src="https://s3-alpha.figma.com/hub/file/2709726394/1b148820-ae15-4bb5-b70d-377daab5ac93-cover.png" height="100"></code>
+<code><img src="https://tse3.mm.bing.net/th?id=OIP.VagBNVwzo_WqrtWqryE-AwHaHa&pid=Api&P=0&h=180" height="100"></code>
