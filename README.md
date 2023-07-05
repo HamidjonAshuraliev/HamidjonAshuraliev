@@ -1,4 +1,4 @@
-### Hi,I'm Khamidjon Ashuraliev <img src="https://giphy.com/stickers/emojitheiconicbrand-waving-man-raising-hand-raisind-5HyXGsoFzXWPKFx07j" width="40px">
+### Hi,I'm Khamidjon Ashuraliev <img src="http://www.emoji.com/" width="40px">
 
 <em>I you can visit my pages</em>
 <br />
