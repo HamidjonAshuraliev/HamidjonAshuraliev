@@ -1,4 +1,4 @@
-### Hi,I'm Khamidjon Ashuraliev <img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5HyXGsoFzXWPKFx07j" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/emojitheiconicbrand-waving-man-raising-hand-raisind-5HyXGsoFzXWPKFx07j">via GIPHY</a></p>" width="40px">
+### Hi,I'm Khamidjon Ashuraliev <img src="https://giphy.com/stickers/emojitheiconicbrand-waving-man-raising-hand-raisind-5HyXGsoFzXWPKFx07j" width="40px">
 
 <em>I you can visit my pages</em>
 <br />
