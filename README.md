@@ -3,7 +3,8 @@
 <mark>I you can visit my pages</mark>
 <br />
 <a href="https://www.instagram.com/my_life_my_style_94/"> 
-<img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" height="45"></a>
+<br />
+<img src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" height="30"></a>
 <hr />
 <br />
 ### Languages and tools I work with:
