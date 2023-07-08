@@ -15,4 +15,3 @@
 <code><img src="https://tse3.mm.bing.net/th?id=OIP.hYalr6Kntrpbdm9TNi9ykQHaHa&pid=Api&P=0&h=180" height="50"></code>
 <code><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="50"></code>
 <code><img src="https://tse3.mm.bing.net/th?id=OIP.VagBNVwzo_WqrtWqryE-AwHaHa&pid=Api&P=0&h=180" height="50"></code>
-<code><img src="https://tse3.mm.bing.net/th?id=OIP.VagBNVwzo_WqrtWqryE-AwHaHa&pid=Api&P=0&h=180" height="50"></code>
